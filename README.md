@@ -1,0 +1,2 @@
+# TESTSPEED-SCRIPT
+new script
